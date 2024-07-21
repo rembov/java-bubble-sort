@@ -43,7 +43,7 @@ public class Main {
             writer.append(ch[i] + ",");
 
             writer.flush();
-            //  System.out.print(ch[i] + "\t");
+          
         }
         writer.append("\n");
         System.out.println("ok");
